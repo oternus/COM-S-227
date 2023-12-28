@@ -1,2 +1,2 @@
 # COM-S-227
-Projects Completed in COM S 227, the order completed was Grid Shifter, Pool Game, 2048 Game, and Train Track Models.
+This repository contains all projects from COM S 227
